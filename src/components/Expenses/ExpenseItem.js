@@ -7,11 +7,11 @@ import './ExpenseItem.css';
 
 const ExpenseItem = (props) => {
 
-  let title = props.title
+  const [title, setTitle] = useState(props.title); // using const but we dont use "=" and we dont assign another value to it
 
   const clickHandler = () => {
-    title = "Updated"
-    console.log('Update clicked');
+    setTitle("Updated");
+    console.log(title);
   }
 
   return (
