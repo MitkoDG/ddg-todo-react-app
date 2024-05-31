@@ -4,6 +4,6 @@ App details:
 - you can add new expenses
 - you can filter by year
 
-Try it out -> [Live Demo](https://expenses.dimitargegov.site/) !!!
+Try it out -> [Live Demo](https://expenses.dimitargegov.website/) !!!
 ![link](https://github.com/MitkoDG/ddg-todo-react-app/blob/main/public/screenshot.jpg)
 
